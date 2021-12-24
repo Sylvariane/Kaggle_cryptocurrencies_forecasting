@@ -6,3 +6,6 @@ P08_02_rapport
 P08_02_rapport.md
 .ipynb_checkpoints
 .vscode
+dask-worker-space
+P08_01_notebook.html
+file_transformer.py
