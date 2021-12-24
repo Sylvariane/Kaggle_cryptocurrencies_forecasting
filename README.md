@@ -1,1 +1,3 @@
-# Kaggle_cryptocurrencies_forecasting
+# Kaggle Competition: G-research Cryptocurrencies forecasting
+
+## Data Analysis
